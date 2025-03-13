@@ -10,7 +10,7 @@ You can find our design resources for social media on [Figma](https://www.figma.
 
 ## Choosing a username
 
-When creating a new profile, we prefer to use the `zoonk` username whenever possible. If it's already taken, we try to use `zoonkorg`. For the Brazilian market, we use `zoonkbr` or `zoonkbrasil` (if the former is taken).
+When creating a new profile, we prefer to use the `zoonk` username whenever possible. If it's already taken, we try to use `zoonkcom`. For the Brazilian market, we use `zoonkbr` or `zoonkbrasil` (if the former is taken).
 
 ## Profiles
 
@@ -19,19 +19,19 @@ We usually manage two profiles per network: one global (in English) and another 
 | Social Network | Global                                               | Brazil                                                   |
 | -------------- | ---------------------------------------------------- | -------------------------------------------------------- |
 | Bluesky        | [@zoonk](https://bsky.app/profile/zoonk.bsky.social) | [@zoonkbr](https://bsky.app/profile/zoonkbr.bsky.social) |
-| DEV            | [@zoonkorg](https://dev.to/zoonkorg)                 | -                                                        |
-| Facebook       | [@zoonkorg](https://www.facebook.com/zoonkorg)       | [@zoonkbr](https://www.facebook.com/zoonkbr)             |
-| Instagram      | [@zoonkorg](https://www.instagram.com/zoonkorg)      | [@zoonkbr](https://www.instagram.com/zoonkbr)            |
+| DEV            | [@zoonk](https://dev.to/zoonk)                       | -                                                        |
+| Facebook       | [@zoonkcom](https://www.facebook.com/zoonkcom)       | [@zoonkbr](https://www.facebook.com/zoonkbr)             |
+| Instagram      | [@zoonkcom](https://www.instagram.com/zoonkcom)      | [@zoonkbr](https://www.instagram.com/zoonkbr)            |
 | LinkedIn       | [@zoonk](https://www.linkedin.com/company/zoonk)     | -                                                        |
 | Mastodon       | [@zoonk](https://mastodon.social/@zoonk)             | [@zoonkbr](https://mastodon.social/@zoonkbr)             |
-| Pinterest      | [@zoonkorg](https://www.pinterest.com/zoonkorg)      | [@zoonkbr](https://www.pinterest.com/zoonkbr)            |
+| Pinterest      | [@zoonkcom](https://www.pinterest.com/zoonkcom)      | [@zoonkbr](https://www.pinterest.com/zoonkbr)            |
 | Reddit         | [r/zoonk](https://www.reddit.com/r/zoonk)            | [r/ZoonkBrasil](https://www.reddit.com/r/ZoonkBrasil)    |
-| Threads        | [@zoonkorg](https://www.threads.net/@zoonkorg)       | [@zoonkbr](https://www.threads.net/@zoonkbr)             |
-| TikTok         | [@zoonkorg](https://www.tiktok.com/@zoonkorg)        | [@zoonkbr](https://www.tiktok.com/@zoonkbr)              |
+| Threads        | [@zoonkcom](https://www.threads.net/@zoonkcom)       | [@zoonkbr](https://www.threads.net/@zoonkbr)             |
+| TikTok         | [@zoonkcom](https://www.tiktok.com/@zoonkcom)        | [@zoonkbr](https://www.tiktok.com/@zoonkbr)              |
 | Tumblr         | [@zoonk](https://zoonk.tumblr.com)                   | [@zoonkbr](https://zoonkbr.tumblr.com)                   |
 | Twitch         | [@zoonkorg](https://www.twitch.tv/zoonkorg)          | [@zoonkbr](https://www.twitch.tv/zoonkbr)                |
-| X              | [@zoonkorg](https://x.com/zoonkorg)                  | [@zoonkbr](https://x.com/zoonkbr)                        |
-| YouTube        | [@zoonkorg](https://www.youtube.com/@zoonkorg)       | [@zoonkbr](https://www.youtube.com/@zoonkbr)             |
+| X              | [@zoonkcom](https://x.com/zoonkcom)                  | [@zoonkbr](https://x.com/zoonkbr)                        |
+| YouTube        | [@zoonkcom](https://www.youtube.com/@zoonkcom)       | [@zoonkbr](https://www.youtube.com/@zoonkbr)             |
 
 ## Strategy
 
