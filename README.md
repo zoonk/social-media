@@ -1,8 +1,8 @@
-# Zoonk Social Media Hub
+# Zoonk Marketing Hub
 
-This repository tracks all of Zoonk’s social media efforts. It includes profiles we manage, resources, content strategies, post discussions, and other relevant materials.
+This repository tracks all of Zoonk’s marketing efforts. It includes profiles we manage, resources, content strategies, post discussions, and other relevant materials.
 
-Use this space to collaborate, plan, and improve our social media presence.
+Use this space to collaborate, plan, and improve our branding.
 
 ## Design resources
 
@@ -10,7 +10,7 @@ You can find our design resources for social media on [Figma](https://www.figma.
 
 ## Choosing a username
 
-When creating a new profile, we prefer to use the `zoonk` username whenever possible. If it's already taken, we try to use `zoonkcom`. For the Brazilian market, we use `zoonkbr` or `zoonkbrasil` (if the former is taken).
+When creating a social media profile, we prefer to use the `zoonk` username whenever possible. If it's already taken, we try to use `zoonkcom`. For the Brazilian market, we use `zoonkbr` or `zoonkbrasil` (if the former is taken).
 
 ## Profiles
 
@@ -50,3 +50,7 @@ TBD.
 ## Cover Image
 
 Our cover image honors changemakers—people who transformed the world through innovation, knowledge, and action. We believe education is the key to change, and Zoonk exists to empower people with the skills and knowledge they need to make a difference. By celebrating these figures, we highlight the impact of learning and the potential each person has to shape the future.
+
+## Contributions
+
+Check out the [how we work page](https://github.com/zoonk/.github/blob/main/profile/how-we-work.md) for more information on how to contribute to Zoonk.
